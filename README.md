@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Manthan Sharma</h1>
+<h1 align="center">Hi 👋, I'm Manthan </h1>
 <h3 align="center">A computer science enthusiast from India.</h3>
 
 - 📫 How to reach me **manthan2306s@gmail.com**
