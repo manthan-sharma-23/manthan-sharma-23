@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Manthan Sharma,</h1>
-<h3 align="center">Breaking barriers to rise to the top in backend and protocol engineering.</h3>
 
 - 📫 How to reach me **manthan2306s@gmail.com**
 
