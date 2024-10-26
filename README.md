@@ -10,6 +10,10 @@
 <a href="https://discord.com/users/manthan_23s" target="_blank">
   <img src="https://img.shields.io/badge/discord-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white" alt="discord" style="margin-bottom: 5px;" />
 </a>
+<a href="https://manthansharma.in" target="_blank">
+  <img src="https://img.shields.io/badge/website-%2312100E.svg?&style=for-the-badge&logo=about.me&logoColor=white" alt="website" style="margin-bottom: 5px;" />
+</a>
+
 
   
 
